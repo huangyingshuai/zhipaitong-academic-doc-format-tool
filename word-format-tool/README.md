@@ -153,13 +153,5 @@ streamlit run main.py
 
 MIT License
 
-## 联系我们
-
-如有问题或建议，请联系：
-- Email: example@example.com
-- GitHub: https://github.com/example/word-format-tool
-
----
-
 **版本：1.0.0**
 **更新时间：2026-04-17**
